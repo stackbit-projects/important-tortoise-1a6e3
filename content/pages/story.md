@@ -33,7 +33,7 @@ In the past, whenever a young man or woman wanted to be great at something, they
 
 ## Digital Age Mentorship
 
-![](/images/story.jpg)
+![dddå](/images/story.jpg)
 
 Fast forward to the 2000s, and you'll find that less people are willing to dedicate their time to help young professionals grow, and fewer novices know to reach out and ask.
 
