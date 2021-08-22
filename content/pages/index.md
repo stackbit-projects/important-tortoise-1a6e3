@@ -97,9 +97,9 @@ sections:
     title: Full Chapter  Overview
     grid_items:
       - content: |
-          ### Know Your
+          ## Know Your
 
-          ### Audience
+          ## Audience
 
           Discovery, research and pure intuition: How to slice and dice all the
           information you can gather about your customers.
