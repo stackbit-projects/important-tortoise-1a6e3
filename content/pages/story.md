@@ -39,7 +39,7 @@ Fast forward to the 2000s, and you'll find that less people are willing to dedic
 
 > Everything of value that I learned in my career, came from other people's stories and experience.”
 
-This is why I decided to create a practical guide that would serve as an internship for those who want to excel in marketing. Instead of looking for a mentor, students and young marketers can read all the wealth of knowledge I acquired throught the years and digest it at their pace.
+>This is why I decided to create a practical guide that would serve as an internship for those who want to excel in marketing. Instead of looking for a mentor, students and young marketers can read all the wealth of knowledge I acquired throught the years and digest it at their pace.
 
 ## Hands On Practice
 
